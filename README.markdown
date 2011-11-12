@@ -16,7 +16,8 @@ Windows with .NET Framework 4
 
 How do I Install it?
 --------------------
-You can get the latest pre-built package here: https://github.com/pmolchanov/EzShopifyDiscounts/downloads
+You can get the latest pre-built package here: 
+  https://github.com/pmolchanov/EzShopifyDiscounts/downloads
 Just unzip the zip file. All dependencies are included.
 
 How do I use it?
