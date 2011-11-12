@@ -16,12 +16,14 @@ Windows with .NET Framework 4
 
 How do I Install it?
 --------------------
+You can get the latest pre-built package here: https://github.com/pmolchanov/EzShopifyDiscounts/downloads
 Just unzip the zip file. All dependencies are included.
 
 How do I use it?
 ----------------
 The easiest way to get started is to create a few discount codes in Shopify,
-and then export the codes with the following command:
+and then export the codes. Open a command window in the application directory
+and issue the following command:
 
   ezsd.exe MyShopifyStoreName MyUserName MyPassword /READ MyShopifyDiscounts.csv
   
